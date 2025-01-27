@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Mapotato"]
 description = "A sample project with wasm-pack"
 license = "MIT/Apache-2.0"
-# repository = "https://github.com/yourgithubusername/hello-wasm"
+repository = "https://github.com/Mapotato-Ma/hello-wasm"
 
 [lib]
 crate-type = ["cdylib"]
